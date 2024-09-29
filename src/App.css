@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.selection-container {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.pokemon-select {
+  padding: 20px;
+}
+
+.battle-btn {
+  background-color: #ffcc00;
+  border: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.result {
+  color: green;
+  margin-top: 20px;
+}
